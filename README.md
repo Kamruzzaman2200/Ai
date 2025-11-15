@@ -76,7 +76,7 @@ The API reference is available at [https://api.generic-codebase-project.com](htt
 
 👤 Author
 ----------
-The Generic Codebase Project was created by [Your Name](https://github.com/username)
+The Generic Codebase Project was created by [Md Kamruzzaman ]([https://github.com/username](https://github.com/Kamruzzaman2200))
 
 📝 License
 ----------
